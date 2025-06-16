@@ -1,4 +1,4 @@
-更新日: 2025/6/16
+**更新日**: 2025/6/16
 
 ## 基本情報
 
@@ -203,12 +203,44 @@ Python（Flask, Pytest, Pydantic, boto3）を用いた WebAPI およびバッチ
 
 以下では登壇したイベントの資料を記載します。
 
-#### 登壇資料一覧
+#### [めぐろ LT #27 「あなたの苦労話を聞かせてください」](https://meguro-lt.connpass.com/event/344505/): AI 生成記事をリライトし満足度を上げようとしたら大変だった話
 
-| 日付      | 資料                                                                                                                                                                                                            | 形式      | イベント                                                                                                                                       |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025.5.27 | [AI 生成記事をリライトし満足度を上げようとしたら大変だった話](https://speakerdeck.com/akihisaikeda/aisheng-cheng-ji-shi-woriraitosiman-zu-du-woshang-keyoutositarada-bian-tatutahua)                        | LT(5 分)  | [めぐろ LT #27 「あなたの苦労話を聞かせてください」](https://meguro-lt.connpass.com/event/344505/)                                             |
-| 2025.4.17 | [スモールスタートで始めるための Lambda× モノリス（Lambdalith）](https://speakerdeck.com/akihisaikeda/sumorusutatodeshi-merutamenolambdaxmonorisu)                                                               | LT(5 分)  | [JAWS-UG 彩の国埼玉支部 #0 ～新たなコンセプト、新たなメンバーで ゼロから創設！～](https://jawsug-sainokuni-saitama.connpass.com/event/349202/) |
-| 2025.3.26 | [Amazon Q Developer CLI と一緒に最小権限の原則を守った IAM ポリシーを作ろう！](https://speakerdeck.com/akihisaikeda/amazon-q-developer-clito-xu-nizui-xiao-quan-xian-noyuan-ze-woshou-tutaiamhorisiwozuo-rou) | LT(10 分) | [JAWS-UG 初心者支部#63 AWS Expert 視聴後の LT 会！](https://jawsug-bgnr.connpass.com/event/346386/)                                            |
-| 2025.3.5  | [Amazon Bedrock マルチエージェントコラボレーションを諦めて LangGraph に入門してみた](https://speakerdeck.com/akihisaikeda/amazon-bedrockmarutiezientokoraboresiyonwodi-metelanggraphniru-men-sitemita)          | LT(10 分) | 　[生成 AI 奮闘選手権 ~KDDI x YUMEMI.grow~](https://yumemi.connpass.com/event/344395/)                                                         |
-| 2025.2.12 | [Amazon Bedrock Agents で始める サーバーレス AI エージェント](https://speakerdeck.com/akihisaikeda/amazon-bedrock-agentsdeshi-meru-sabaresuaieziento)                                                           | LT(10 分) | [Serverless LT 初心者向け LT 大会 #51](https://serverlesslt.connpass.com/event/343012/)                                                        |
+**資料**
+
+- [AI 生成記事をリライトし満足度を上げようとしたら大変だった話](https://speakerdeck.com/player/6101e0696291453385b6f6fe57e04657)
+
+#### [JAWS-UG 彩の国埼玉支部 #0 ～新たなコンセプト、新たなメンバーで ゼロから創設！～](https://jawsug-sainokuni-saitama.connpass.com/event/349202/): スモールスタートで始めるための Lambda× モノリス（Lambdalith）
+
+**資料**
+
+- [スモールスタートで始めるための Lambda× モノリス（Lambdalith）](https://speakerdeck.com/player/ef5dbcbb65c44dd0bc17ebbd8a92e831)
+
+**動画**
+
+- [JAWS-UG 彩の国埼玉支部 #0 ～新たなコンセプト、新たなメンバーで ゼロから創設！～](https://www.youtube.com/embed/lGyVvrTil_w?si=dBmOjSWibL4c3-uU&start=3904)
+
+#### [JAWS-UG 初心者支部#63 AWS Expert 視聴後の LT 会！](https://jawsug-bgnr.connpass.com/event/346386/): Amazon Q Developer CLI と一緒に最小権限の原則を守った IAM ポリシーを作ろう！
+
+**資料**
+
+- [Amazon Q Developer CLI と一緒に最小権限の原則を守った IAM ポリシーを作ろう！](https://speakerdeck.com/player/88efffe21bc14cf49336d5ec1a057bf2)
+
+**動画**
+
+- [JAWS-UG 初心者支部#63 AWS Expert 視聴後の LT 会！](https://www.youtube.com/embed/ueeGd4EBCrk?si=tlB8oVLnHYhYfJ3d&start=998)
+
+#### [生成 AI 奮闘選手権 ~KDDI x YUMEMI.grow~](https://yumemi.connpass.com/event/344395/): Amazon Bedrock マルチエージェントコラボレーションを諦めて LangGraph に入門してみた
+
+**資料**
+
+- [Amazon Bedrock マルチエージェントコラボレーションを諦めて LangGraph に入門してみた](https://speakerdeck.com/player/b660c3edef12456a91e49a94b9ab3fff)
+
+**動画**
+
+- [KDDI× ゆめみ 生成 AI 奮闘選手権](https://www.youtube.com/embed/tWkEznR5ilI?si=gF-EVDpKuHEPLIrA&start=5713)
+
+#### [Serverless LT 初心者向け LT 大会 #51](https://serverlesslt.connpass.com/event/343012/): Amazon Bedrock Agents で始める サーバーレス AI エージェント
+
+**資料**
+
+- [Amazon Bedrock Agents で始める サーバーレス AI エージェント](https://speakerdeck.com/player/420f8d143c3f487fac641954aada8f59)
