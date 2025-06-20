@@ -203,6 +203,16 @@ Python（Flask, Pytest, Pydantic, boto3）を用いた WebAPI およびバッチ
 
 以下では登壇したイベントの資料を記載します。
 
+#### [JAWS-UG 東京 ランチタイム LT 会 #24](https://jawsug.connpass.com/event/355052/): AWS CDK の推しポイント 〜CloudFormation と比較してみた〜
+
+**資料**
+
+- [AWS CDK の推しポイント 〜CloudFormation と比較してみた〜](https://speakerdeck.com/player/2c2423dcaa5f483e891871bb6e31df27)
+
+**動画**
+
+- [JAWS-UG 東京 ランチタイム LT 会 #24](https://www.youtube.com/embed/fBGKi4Hz5nw?si=UlEUdnS9ZyCY9jHE&start=838)
+
 #### [めぐろ LT #27 「あなたの苦労話を聞かせてください」](https://meguro-lt.connpass.com/event/344505/): AI 生成記事をリライトし満足度を上げようとしたら大変だった話
 
 **資料**
